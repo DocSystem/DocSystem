@@ -2,8 +2,9 @@
 
 ## 🗄 My projects
 
-* [tccutil](https://github.com/DocSystem/tccutil)
-* [bigsur-icons-for-catalina](https://github.com/DocSystem/bigsur-icons-for-catalina)
+* [tccutil](https://github.com/DocSystem/tccutil/)
+* [bigsur-icons-for-catalina](https://github.com/DocSystem/bigsur-icons-for-catalina/)
+* [micmutetokey](https://github.com/DocSystem/micmutetokey/)
 
 ## 📈 Stats
 
