@@ -7,6 +7,7 @@
 * [bigsur-icons-for-catalina](https://github.com/DocSystem/bigsur-icons-for-catalina/)
 * [micmutetokey](https://github.com/DocSystem/micmutetokey/)
 * [mathgreen-api-node](https://github.com/DocSystem/mathgreen-api-node/)
+* [Razer Blade 15 Base Model Hackintosh (old but working)](https://github.com/DocSystem/blade15hackintosh/)
 
 ## 📈 Stats
 
