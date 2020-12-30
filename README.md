@@ -13,4 +13,4 @@
 ## 📈 Stats
 
 ![DocSystem's github stats](https://github-readme-stats.vercel.app/api?username=DocSystem&show_icons=true&theme=dark)
-![DocSystem's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocSystem&theme=dark)
+![DocSystem's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocSystem&layout=compact&theme=dark)
