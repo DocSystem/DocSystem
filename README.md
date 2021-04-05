@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 ### Hi there 👋
 
 ## 🗄 My projects
