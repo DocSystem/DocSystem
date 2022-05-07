@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+Hi, I'm DocSystem, I'm 16 and I like computers for a long time now! You'll find here some of my open-source projects :)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/375259454465245185)](https://discord.com/users/375259454465245185)
 
 ## 🗄 My projects
 
@@ -7,9 +11,10 @@
 * [bigsur-icons-for-catalina](https://github.com/DocSystem/bigsur-icons-for-catalina/)
 * [micmutetokey](https://github.com/DocSystem/micmutetokey/)
 * [mathgreen-api-node](https://github.com/DocSystem/mathgreen-api-node/)
-* [Razer Blade 15 Base Model Hackintosh (old but working)](https://github.com/DocSystem/razerbladehackintosh/)
+* [Razer Blade 15 Base Model Hackintosh (old but still working)](https://github.com/DocSystem/razerbladehackintosh/)
 * [portableapt](https://github.com/DocSystem/portableapt/)
 * [ENT API](https://github.com/DocSystem/entapi/)
+* [Genshin Wishes Simulator](https://github.com/DocSystem/GenshinVoeuxSim/)
 
 ## 📈 Stats
 
