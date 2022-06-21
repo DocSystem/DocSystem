@@ -13,7 +13,6 @@ Hi, I'm DocSystem, I'm 16 and I like computers for a long time now! You'll find 
 * [mathgreen-api-node](https://github.com/DocSystem/mathgreen-api-node/)
 * [Razer Blade 15 Base Model Hackintosh (old but still working)](https://github.com/DocSystem/razerbladehackintosh/)
 * [portableapt](https://github.com/DocSystem/portableapt/)
-* [ENT API](https://github.com/DocSystem/entapi/)
 * [Genshin Wishes Simulator](https://github.com/DocSystem/GenshinVoeuxSim/)
 
 ## 📈 Stats
