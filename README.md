@@ -1,8 +1,6 @@
 # Hi there 👋
 
-Hi, I'm DocSystem, I'm 17 and I like computers for a long time now! You'll find here some of my open-source projects :)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/375259454465245185)](https://discord.com/users/375259454465245185)
+Hi, I'm DocSystem, I'm 18 and I like computers for a long time now! You'll find here some of my open-source projects :)
 
 ## 🗄 My projects
 
