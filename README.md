@@ -1,17 +1,14 @@
-# Hi there 👋
+# DocSystem - Cybersecurity Student 🔐
 
-Hi, I'm DocSystem, I'm 18 and I like computers for a long time now! You'll find here some of my open-source projects :)
+Hi, I'm DocSystem, I'm 18 and I'm currently studying cybersecurity at [Efrei Paris](https://efrei.fr).
 
 ## 🗄 My projects
 
 * [My website](https://docsystem.xyz/)
 * [tccutil](https://github.com/DocSystem/tccutil/)
-* [bigsur-icons-for-catalina](https://github.com/DocSystem/bigsur-icons-for-catalina/)
 * [micmutetokey](https://github.com/DocSystem/micmutetokey/)
-* [mathgreen-api-node](https://github.com/DocSystem/mathgreen-api-node/)
 * [Razer Blade 15 Base Model Hackintosh (old but still working)](https://github.com/DocSystem/razerbladehackintosh/)
 * [portableapt](https://github.com/DocSystem/portableapt/)
-* [Genshin Wishes Simulator](https://github.com/DocSystem/GenshinVoeuxSim/)
 
 ## 📈 Stats
 
