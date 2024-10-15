@@ -12,5 +12,13 @@ Hi, I'm DocSystem, I'm 18 and I'm currently studying cybersecurity at [Efrei Par
 
 ## 📈 Stats
 
-![DocSystem's github stats](https://github-stats.docsystem.xyz/api?username=DocSystem&show_icons=true&theme=dark&hide_border=true)
-![DocSystem's top langs](https://github-stats.docsystem.xyz/api/top-langs/?username=DocSystem&layout=compact&theme=dark&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.docsystem.xyz/?username=DocSystem&show_icons=true&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats.docsystem.xyz/?username=DocSystem&show_icons=true&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-stats.docsystem.xyz/?username=DocSystem&show_icons=true&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.docsystem.xyz/top-langs/?username=DocSystem&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats.docsystem.xyz/top-langs/?username=DocSystem&layout=compact&hide_border=true">
+  <img alt="Top languages" src="https://github-stats.docsystem.xyz/top-langs/?username=DocSystem&layout=compact&hide_border=true">
+</picture>
