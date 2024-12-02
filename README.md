@@ -1,6 +1,6 @@
 # DocSystem - Cybersecurity Student 🔐
 
-Hi, I'm DocSystem, I'm 19 and I'm currently studying cybersecurity at [Efrei Paris](https://efrei.fr).
+Hi, I'm DocSystem, I'm 19 and I'm currently studying cybersecurity at [Efrei Paris](https://efrei.fr) and [Concordia University](https://concordia.ca).
 
 ## 🗄 My projects
 
